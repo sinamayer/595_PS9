@@ -2,4 +2,6 @@
 
 Here's my sample webmap on Airbnbs in New Orleans!
 
-You can explore the map [here](nola_airbnbs.html).
+<iframe src="nola_airbnbs.html" height="855" width="95%"></iframe> 
+
+You can explore the map [as its owm web page here](nola_airbnbs.html).
