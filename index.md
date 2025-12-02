@@ -1,7 +1,7 @@
 ## PS9
 
-A simple webmap!
+Here's my sample webmap on Airbnbs in New Orleans!
 
-<iframe src="index.html" height="500" width="500"></iframe>
+<iframe src="nola_airbnbs.html" height="500" width="500"></iframe>
 
-You can explore this map [as its own web page here](index.html).
+You can explore this map [as its own web page here](nola_airbnbs.html).
